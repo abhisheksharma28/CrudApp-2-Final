@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "sonal",
+      "email": "sonal@gmail.com",
+      "mobile": "7879479889",
+      "password": "sonall"
+    },
+    {
+      "id": "6",
+      "name": "priya",
+      "email": "priya@gmail.com",
+      "mobile": "7984798907",
+      "password": "priyas"
+    },
+    {
+      "id": "10",
+      "name": "sanya",
+      "email": "sanya@gmail.com",
+      "mobile": "7594759084",
+      "password": "fhiorfio"
+    }
+  ]
+}
